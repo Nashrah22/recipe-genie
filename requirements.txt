@@ -1,2 +1,0 @@
-gradio>=5.49,<6
-google-genai>=1.0.0
